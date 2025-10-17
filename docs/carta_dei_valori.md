@@ -33,47 +33,28 @@ Poliamore Milano incoraggia l'aggregazione di persone che condividono esperienze
 
 ### Decostruzione e apertura al cambiamento
 
-Amato ed etero normatività insegnano spesso concetti e precetti che vengono visti
-come valori assoluti e immutabili, ma nessun concetto è indelebile. Al fine di crescere,
-come gruppo e come individui, è necessario uno scambio costruttivo che porti a
-mettere in discussione alcuni valori, eliminando l'approccio radicale che vi si nasconde
-spesso dietro. La visione delle cose è in continua evoluzione, muta e cambia e mette in
-discussione la visione univoca di un sistema che plasma gli individui, evidenziando
-viceversa sistemi plasmati sull'individuo. Poliamore Milano incentiva l'apertura,
-l'osservazione e il rispetto verso nuove prospettive, che possono non essere condivise,
-ma che restano altrettanto valide.
-CONSENSO
-Il consenso è un atto di fiducia nell'interazione, nell'accettazione del contatto e nel
-desiderio di esprimersi altrui, ed è essenziale che venga rispettato: attraverso il
-consenso noi possiamo proteggere il nostro mondo e i nostri bisogni o connetterci agli
-altri in maniera spontanea e naturale. È dunque una forma di rispetto reciproco, di
-autodeterminazione e di comunicazione assertiva e trasparente. Il consenso si può
-ritenere tale solo se esplicito, libero, informato, reversibile e specifico. Senza un
-consenso, viene a mancare la genuinità del rapporto che diventa fondamentalmente
-l'imposizione della volontà di un individuo su un altro. Il gruppo Poliamore Milano si
-impegna a promuovere una cultura del consenso, prevenendo e gestendo eventuali
+Amato ed etero normatività insegnano spesso concetti e precetti che vengono visti come valori assoluti e immutabili, ma nessun concetto è indelebile.
+Al fine di crescere, come gruppo e come individui, è necessario uno scambio costruttivo che porti a mettere in discussione alcuni valori, eliminando l'approccio radicale che vi si nasconde spesso dietro.
+La visione delle cose è in continua evoluzione, muta e cambia e mette in discussione la visione univoca di un sistema che plasma gli individui, evidenziando viceversa sistemi plasmati sull'individuo.
+Poliamore Milano incentiva l'apertura, l'osservazione e il rispetto verso nuove prospettive, che possono non essere condivise, ma che restano altrettanto valide.
+
+### Consenso
+
+Il consenso è un atto di fiducia nell'interazione, nell'accettazione del contatto e nel desiderio di esprimersi altrui, ed è essenziale che venga rispettato: attraverso il consenso noi possiamo proteggere il nostro mondo e i nostri bisogni o connetterci agli altri in maniera spontanea e naturale.
+È dunque una forma di rispetto reciproco, di
+autodeterminazione e di comunicazione assertiva e trasparente.
+Il consenso si può ritenere tale solo se esplicito, libero, informato, reversibile e specifico.
+Senza un consenso, viene a mancare la genuinità del rapporto che diventa fondamentalmente l'imposizione della volontà di un individuo su un altro.
+Il gruppo Poliamore Milano si impegna a promuovere una cultura del consenso, prevenendo e gestendo eventuali
 problematiche legate ad una sua eventuale violazione.
-COMUNICAZIONE NON VIOLENTA
-Poliamore Milano è una comunità che si sviluppa anche tramite social network. Spesso
-le discussioni che emergono in chat non lasciano trasparire il tono delle frasi che
 
-Poliamore Milano 03.04.2025
+### Comunicazione non violenta
 
-vengono utilizzate e il fatto di avere uno schermo davanti a noi, invece di un volto,
-riduce la capacità di empatia nei confronti degli altri. E' importante quindi tenere conto
-di questa componente quando si portano avanti delle discussioni, tenendo un
-approccio comunicativo basato sulla connessione empatica ed emotiva con l'altro,
-facendo attenzione ai toni utilizzati, impegnandosi, nei limiti delle proprie risorse e
-strumenti, a co-costruire un ambiente di non giudizio, non erigendo muri ma creando
-ponti ovvero un terreno fertile a
-
-nché le discussioni possano portare a un
-arricchimento e non a una sterile opposizione. E' inoltre importante capire e rispettare i
-limiti delle altre persone, privilegiando la validazione del loro vissuto personale e
-emozionale rispetto a vincere una discussione. Per facilitare questo è ottimale, quando
-possibile, esplicitare i nostri limiti; non pretendendo o dando per scontato però che
-tutte le persone siano in grado o vogliano riconoscere i propri limiti e/o vogliano
-esplicitarli.
+Poliamore Milano è una comunità che si sviluppa anche tramite social network. Spesso le discussioni che emergono in chat non lasciano trasparire il tono delle frasi che vengono utilizzate e il fatto di avere uno schermo davanti a noi, invece di un volto, riduce la capacità di empatia nei confronti degli altri.
+E' importante quindi tenere conto di questa componente quando si portano avanti delle discussioni, tenendo un approccio comunicativo basato sulla connessione empatica ed emotiva con l'altro, facendo attenzione ai toni utilizzati, impegnandosi, nei limiti delle proprie risorse e strumenti, a co-costruire un ambiente di non giudizio, non erigendo muri ma creando
+ponti ovvero un terreno fertile affinché le discussioni possano portare a un arricchimento e non a una sterile opposizione.
+E' inoltre importante capire e rispettare i limiti delle altre persone, privilegiando la validazione del loro vissuto personale e emozionale rispetto a vincere una discussione.
+Per facilitare questo è ottimale, quando possibile, esplicitare i nostri limiti; non pretendendo o dando per scontato però che tutte le persone siano in grado o vogliano riconoscere i propri limiti e/o vogliano esplicitarli.
 
 ### Accettazione e accoglienza
 

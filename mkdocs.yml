@@ -1,12 +1,22 @@
 site_name: Manuale Poliamore Milano
 site_url: http://127.0.0.1:8000/
+repo_url: https://github.com/LuchiLucs/manuale-poliamore-milano/
+repo_name: manuale-poliamore-milano
+edit_uri: edit/master/docs/
 nav:
-  - Home: index.md
+  - Manuale: index.md
   - Valori: carta_dei_valori.md
   - Regolamento: regolamento.md
   - Segnalazioni: segnalazioni.md
+  - Gruppo Telegram: gruppo_telegram.md
+  - Eventi:
+    - Poliaperitivo: events/poli_aperitivo.md
+    - Aperitivo Antispecista: events/aperitivo_antispecista.md
+    - Cerchio di confronto: events/cerchio_di_confronto.md
 theme:
+  language: it
   name: material
+  #custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -25,10 +35,30 @@ theme:
   favicon: assets/logo.jpg
   icon:
     logo: octicons/heart-16
+    edit: material/pencil 
+    view: material/eye
   features:
+    # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
+    - content.action.view
+    - content.action.edit
+    # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#instant-loading
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
 extra:
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/#setting-up-versioning
+  version:
+    provider: mike
+  # remove mkdocs-material support link
   generator: false
+  # social links
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/poliamoremilano/
@@ -38,7 +68,16 @@ extra:
       name: Poliamore Milano su Facebook
 copyright: Copyright &copy; 2025 Poliamore Milano con amore
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
