@@ -9,11 +9,27 @@
          <lastmod>2025-10-17</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/0.1/gruppo_telegram/</loc>
+         <lastmod>2025-10-17</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/0.1/regolamento/</loc>
          <lastmod>2025-10-17</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/0.1/segnalazioni/</loc>
+         <lastmod>2025-10-17</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/0.1/events/aperitivo_antispecista/</loc>
+         <lastmod>2025-10-17</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/0.1/events/cerchio_di_confronto/</loc>
+         <lastmod>2025-10-17</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/0.1/events/poli_aperitivo/</loc>
          <lastmod>2025-10-17</lastmod>
     </url>
 </urlset>
