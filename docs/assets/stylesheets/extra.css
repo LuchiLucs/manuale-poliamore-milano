@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "OpenDyslexic"; 
+  font-weight: normal; 
+  font-style: normal;
+  src: url("../fonts/OpenDyslexic-Regular.otf");
+}
+
+@font-face {
+  font-family: "OpenDyslexic"; 
+  font-weight: bold; 
+  font-style: normal;
+  src: url("../fonts/OpenDyslexic-Bold.otf");
+}
+
+@font-face {
+  font-family: "OpenDyslexic"; 
+  font-weight: normal; 
+  font-style: italic;
+  src: url("../fonts/OpenDyslexic-Italic.otf");
+}
+
+@font-face {
+  font-family: "OpenDyslexic"; 
+  font-weight: bold; 
+  font-style: italic;
+  src: url("../fonts/OpenDyslexic-Bold-Italic.otf");
+}
+
+@font-face {
+  font-family: "OpenDyslexic Mono"; 
+  font-weight: normal; 
+  font-style: normal;
+  src: url("../fonts/OpenDyslexicMono-Regular.otf");
+
+}
+
+/* @font-face {
+  font-family: "Noto Mono"; 
+  font-weight: bold; 
+  font-style: normal;
+  src: url("../fonts/NotoSansMono-Bold.otf");
+} */
+
+:root {
+  --md-text-font: "OpenDyslexic";
+  --md-code-font: "OpenDyslexic Mono";
+}

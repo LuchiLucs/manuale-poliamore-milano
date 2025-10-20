@@ -4,7 +4,9 @@ repo_url: https://github.com/LuchiLucs/manuale-poliamore-milano/
 repo_name: manuale-poliamore-milano
 edit_uri: edit/master/docs/
 nav:
-  - Manuale: index.md
+  - Manuale:
+    - Benvenute: manuale/benvenute.md
+    - Meta Manuale: manuale/meta_manuale.md
   - Valori: carta_dei_valori.md
   - Regolamento: regolamento.md
   - Segnalazioni: segnalazioni.md
@@ -17,6 +19,7 @@ theme:
   language: it
   name: material
   #custom_dir: overrides
+  font: false
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -48,10 +51,13 @@ theme:
     # - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
-    - navigation.footer
+    # - navigation.footer
+    - navigation.top
     - search.suggest
     - search.highlight
     - search.share
+extra_css:
+  - assets/stylesheets/extra.css
 extra:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/#setting-up-versioning
   version:
@@ -72,6 +78,11 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  # Lists
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  # Emojis
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -79,5 +90,8 @@ markdown_extensions:
 
 plugins:
   - search
+  - redirects:
+      redirect_maps: 
+        'index.md': 'manuale/benvenute.md'
   - git-revision-date-localized:
       enable_creation_date: true
