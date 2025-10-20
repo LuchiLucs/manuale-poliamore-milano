@@ -60,8 +60,8 @@ extra_css:
   - assets/stylesheets/extra.css
 extra:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/#setting-up-versioning
-  version:
-    provider: mike
+  # version:
+  #   provider: mike
   # remove mkdocs-material support link
   generator: false
   # social links
